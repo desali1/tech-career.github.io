@@ -1,0 +1,38 @@
+
+body{
+    direction: rtl;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 ;
+    background-color: black;
+    background-image: url('../חוף.jpg');
+    font-size:1rem;
+   
+
+
+  }
+
+  .all_site{
+      width: 800px;
+      background:rgba(255,255,255,0.3);
+      margin: 0 auto;
+      padding: 8px;
+     
+      
+
+   }
+
+
+h1{
+    color:seagreen;
+
+    }
+
+ h1,h2{
+     margin: 0 ;  
+
+}
+
+img{
+    float: right;
+    margin-left: 7px;
+}
